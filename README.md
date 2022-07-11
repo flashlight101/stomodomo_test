@@ -19,4 +19,4 @@
 
 ### Ссылка на само задание: https://docs.google.com/spreadsheets/d/1G3xBe_wPXlFnuh1BFzBe6KFQs4EHwqBdRe5yr9MvXKI/edit?usp=sharing
 
-### Ссылка на мое решение: [https://docs.google.com/spreadsheets/d/1mLTD6yjaNdzCFKTkh4flA1rAIIfsg1uCq152GpLOFPA/edit?usp=sharing]
+### Ссылка на мое решение: https://docs.google.com/spreadsheets/d/1mLTD6yjaNdzCFKTkh4flA1rAIIfsg1uCq152GpLOFPA/edit?usp=sharing
